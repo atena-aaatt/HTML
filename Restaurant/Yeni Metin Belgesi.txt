@@ -1,0 +1,6 @@
+menubar
+Yükseklik: 150px
+geniþlik: 1000px;
+text align:center
+letter spacing:22px
+margin:0 auto;
